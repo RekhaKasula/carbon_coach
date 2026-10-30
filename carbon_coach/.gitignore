@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# API keys and secrets
+.env
+**/.env
+
+# Database
+*.db
+
+# IDE files
+.vscode/
